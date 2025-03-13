@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding:0%;
+    /*margin is the distance btw div and outside whereas padding is the distance within the container and text*/
+}
+html,body{
+    width:100%;
+    height:100%;
+}
+h1{
+    margin: 0%;
+    width: 100%;
+    color: rgb(235, 240, 238);
+    background-color: rgb(35, 190, 56);
+    text-align: center;
+}
+body{
+    /* margin: 0%; */
+    /* width: 50%; */
+    background-color: rgb(92, 198, 51);
+    text-decoration: dotted;
+}
+p{
+  margin: 0%;
+background-color: rgb(55, 148, 94);
+}
+
+div{
+   
+    background-color: blanchedalmond;
+}
